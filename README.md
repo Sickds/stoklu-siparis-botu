@@ -1,2 +1,1 @@
-# stoklu-siparis-botu
-stoklu-siparis-botu
+# Starları alalım fıstıklar 😉
