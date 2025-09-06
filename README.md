@@ -30,7 +30,7 @@ Discord sunucularında ürün stok yönetimi ve sipariş teslim sistemi için ge
 ## 🚀 Kurulum
 
 ### Gereksinimler
-- Node.js v16.9.0 veya üzeri
+- Node.js v20 veya üzeri
 - Discord Bot Token
 - Discord sunucu yönetici yetkisi
 
